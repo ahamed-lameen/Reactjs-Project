@@ -1,0 +1,35 @@
+/**
+* 
+* style.css
+* @author - Lameen
+* @date - 30/03/2023
+**/
+
+.logo {
+    width: 182px;
+    display: flex;
+    margin: 4px 0 4px 30px;
+    background-color: #E9AD2E;
+}
+.user-img {
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    margin: 8px 0 -13px 0;
+}
+.label-sales {
+    display: inline-block;
+    font-size: 13px;
+    margin: 10px 10px 10px 10px;
+}
+.down-icon {
+    margin: 10px 24px 0px 25px;
+    font-size: 10px;
+}
+.bell-icon {
+    margin: 10px 20px 0 0;
+    font-size: 12px;
+}
+.cell-1 {
+    flex: 1;
+}

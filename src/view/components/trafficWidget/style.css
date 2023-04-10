@@ -1,0 +1,35 @@
+/**
+* 
+* style.css
+* @author - Lameen
+* @date - 06/04/2023
+**/
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.cell-1 {
+    flex: 1;
+}
+.traffic-box {
+    height: 95px;
+    margin: 15px 20px 20px 20px;
+    border-bottom: 1px solid #919EAB;
+    border-right: 1px solid #919EAB;
+    border-left:  1px solid #919EAB;
+    border-top: 7px solid;
+    border-radius: 8px;
+}
+.traffic-title {
+    margin: 20px 0 0 0;
+    font-size: 30px;
+    color: #212B36;
+    text-align: center;
+}
+.traffic-subtitle {
+    margin: 8px 0 5px 0;
+    font-size: 14px;
+    text-align: center;
+    color: #637381;
+}

@@ -1,0 +1,27 @@
+/**
+* 
+* style.css
+* @author - Lameen
+* @date - 05/04/2023
+**/
+
+.secondary-button {
+    border: none;
+    background-color: #F5F5F5;
+    border-radius: 7px;
+    padding: 13px 8px; 
+    color: #000;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+}
+.primary-button {
+    border: none;
+    background-color: #F1B13B;
+    border-radius: 7px;
+    padding: 13px 8px; 
+    color: #000;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+}

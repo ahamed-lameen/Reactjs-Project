@@ -1,0 +1,26 @@
+/**
+* 
+* style.css
+* @author - Lameen
+* @date - 07/04/2023
+**/
+
+.field-set {
+    position: relative;
+}
+.field-label {
+    position: absolute;
+    top: 6px;
+    left: 43px;
+    color: #919EAB;
+    font-size: 10px;
+}
+.text-field {
+    /* width: 100%; */
+    padding: 15px 10px;
+    border: 1px solid #edeff1;
+    border-radius: 8px;
+    outline: none;
+    margin: 20px 0 0 0;
+    font-size: 11px;
+}

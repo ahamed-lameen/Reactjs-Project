@@ -1,0 +1,141 @@
+/**
+* 
+* style.css
+* @author - Lameen
+* @date - 05/04/2023
+**/
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.dash {
+    width: 1129px;
+}
+.cell-1 {
+    flex: 1;
+}
+.cell-w255 {
+    width: 285px;
+}
+.row-fixed {
+    display: inline-flex;
+}
+.dashboard-box {
+    margin: 35px 20px 20px 20px;
+    border-radius: 15px;
+    background-color: #fff;
+}
+.dashboard-title{
+    margin: 40px 0 0 25px;
+    font-size: 30px;
+    color: #212B36;
+    display: flex;
+    justify-content: flex-start;
+}
+.subtitle {
+    margin: 8px 0 0 25px;
+    font-size: 14px;
+    display: flex;
+    justify-content: flex-start;
+    color: #637381;
+}
+.progress-img-box {
+    padding: 30px 30px 20px 30px;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    margin: 15px;
+    background-color: #f4f6f8;
+    display: flex;
+    justify-content: flex-end;
+}
+.progress-img {
+    width: 50px;
+    height: 38px;
+}
+.traffic-container {
+    width: 718px;
+    height: 350px;
+    background-color: #fff;
+    margin: 20px 10px 20px 20px;
+    border-radius: 15px;
+}
+.site-title {
+    margin: 25px 0 0 25px;
+    display: flex;
+    color: #212B36;
+    font-size: 16px;
+}
+.yearly-box {
+    /* width: 75px; */
+    height: 23px;
+    display: inline-flex;
+    background-color: #F5F5F5;
+    border-radius: 7px;
+    margin: 11px 24px 11px 0px;
+    padding: 0px 10px 14px 10px;
+}
+.label-status {
+    margin: 13px 0 0 0;
+    font-size: 14px;
+}
+.traffic-timing-box {
+    width: 338px;
+    background-color: #fff;
+    margin: 20px 20px 20px 32px;
+    border-radius: 15px;
+}
+.progress-bar {
+    width: 338px;
+    height: 9px;
+    margin: 20px 21px;
+    border-radius: 10px;
+    background-color: #f4f6f8;
+}
+.range {
+    height: 9px;
+    border-radius: 10px;
+}
+.range-1 {
+    background-color: #166693;
+    width: 38%;
+}
+.range-2 {
+    background-color: #38E1F9;
+    width: 25%;
+}
+.range-3 {
+    background-color: #FFC107;
+    width: 38%;
+}
+.range-4 {
+    background-color: #FF0000;
+    width: 65%;
+}
+.range-5 {
+    background-color: #54D62C;
+    width: 75%;
+}
+.mt-10 {
+    margin-top: 16px;
+}
+.timing-title {
+    margin: 25px 0 10px 25px;
+    display: flex;
+    color: #212B36;
+    font-size: 16px;
+}
+/* .point {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin: 10px 8px 0 0px;
+    background-color: #166693;
+}
+.traffic-count {
+    font-size: 16px;
+    color: #212B36;
+    text-align: center;
+    margin: 6px 0 0 0;
+} */

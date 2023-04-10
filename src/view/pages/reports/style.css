@@ -1,0 +1,127 @@
+/**
+* 
+* style.css
+* @author - Lameen
+* @date - 30/03/2023
+**/
+
+.box {
+    margin: 25px 20px 10px 15px;
+}
+.layout-box {
+    text-align: left;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 24px;
+    background-color: #FFFFFF;
+    padding: 10px 0 1px 0;
+}
+.calender-box {
+    background-color: #FFFFFF;
+    font-size: 12px;
+}
+.cell-w75 {
+    width: 75px;
+}
+.cell-w107 {
+    width: 107px;
+}
+.cell-w157 {
+    width: 157px;
+}
+.cell-w111 {
+    width: 111px;
+}
+.cell-w120 {
+    width: 120px;
+}
+.cell-w225 {
+    width: 225px;
+}
+.cell-w203 {
+    width: 203px;
+}
+.cell-w130 {
+    width: 130px;
+}
+.cell-w133 {
+    width: 133px;
+}
+.cell-w143 {
+    width: 143px;
+}
+.cell-w146 {
+    width: 146px;
+}
+.cell-w150 {
+    width: 150px;
+}
+.cell-w160 {
+    width: 160px;
+}
+.cell-w136 {
+    width: 136px;
+}
+.cell-w200 {
+    width: 200px;
+}
+.cell-w180 {
+    width: 180px;
+}
+.cell-w230 {
+    width: 230px;
+}
+.cell-w285 {
+    width: 285px;
+}
+.cell-w350 {
+    width: 350px;
+}
+.workorder-box {
+    margin-left: 20px;
+    display: inline-flex;
+}
+.serivice-date-box {
+    width: 149px;
+}
+.title-box {
+    display: flex;
+    justify-content: flex-start;
+}
+.title {
+    font-size: 10px;
+    color: #848484;
+}
+.table-title {
+    background-color: #F5F5F5;
+    margin: 20px 0 20px 0px;
+    text-align: left;
+}
+.customer-detail {
+    color: #7D7D7D;
+}
+.workorder-title {
+    margin-left: 20px;
+}
+.file-icon {
+    font-size: 36px;
+    color: #D9D9D9;
+    margin: 5px 4px 0 0;
+}
+.edit-icon {
+    font-size: 13px;
+    margin: 1px 0 0 45px;
+}
+.data-container {
+    padding-bottom: 20px;
+}
+.label-ID {
+    margin: 0 0 0 15px;
+}
+.download-icon {
+    color: #848484;
+    margin: 0 0 0 31px;
+}
+.button-container {
+    margin: 12px 16px 0 0;
+}

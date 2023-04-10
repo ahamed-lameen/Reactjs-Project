@@ -1,0 +1,26 @@
+/**
+* 
+* style.css
+* @author - Lameen
+* @date - 06/04/2023
+**/
+
+.point {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin: 10px 8px 0 0px;
+    background-color: #166693;
+}
+.traffic-count {
+    font-size: 16px;
+    color: #212B36;
+    text-align: center;
+    margin: 6px 0 0 0;
+}
+.traffic-info {
+    margin: 8px 0 5px 0;
+    font-size: 12px;
+    text-align: center;
+    color: #637381;
+}
